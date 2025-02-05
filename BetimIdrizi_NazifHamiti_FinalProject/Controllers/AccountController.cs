@@ -1,7 +1,7 @@
 ﻿using BetimIdrizi_NazifHamiti_FinalProject.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using BetimIdrizi_NazifHamiti_FinalProject.ViewModel;
+using BetimIdrizi_NazifHamiti_FinalProject.ViewModels;
 using System.Threading.Tasks;
 
 
