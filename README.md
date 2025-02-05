@@ -5,33 +5,39 @@ A web-based platform built using C# .NET MVC where users can view, review, like,
 
 Features
 User Features:
-
 View a list of books.
 Read detailed information about each book.
 Like or dislike books.
 Submit reviews for books.
 User authentication and account management.
-Admin Features:
 
+
+Admin Features:
 Add, edit, and delete books.
 Manage users and their reviews.
 View all reviews and ratings for books.
+
+
 Technologies Used
 Backend: C# .NET MVC
 Frontend: HTML, CSS, JavaScript
 Database: SQL Server
 Authentication: ASP.NET Identity
+
+
 Getting Started
 Prerequisites
 .NET 8.0 SDK or higher
 SQL Server
+
+
 Installation
 Clone the repository:
 
 bash
 Copy
 Edit
-git clone https://github.com/your-username/book-review-platform.git
+git clone [https://github.com/your-username/book-review-platform.git](https://github.com/betimidrizi/BetimIdrizi_NazifHamiti_FinalProject.git)
 Open the solution in Visual Studio.
 
 Restore the required NuGet packages:
