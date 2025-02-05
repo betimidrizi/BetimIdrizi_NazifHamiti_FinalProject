@@ -4,6 +4,7 @@ Book Review Platform
 A web-based platform built using C# .NET MVC where users can view, review, like, and dislike books. Admins can manage the book catalog and perform CRUD operations. This platform allows users to engage with books by submitting their reviews and rating them.
 
 Features
+
 User Features:
 View a list of books.
 Read detailed information about each book.
