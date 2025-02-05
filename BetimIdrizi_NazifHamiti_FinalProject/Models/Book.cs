@@ -9,5 +9,7 @@
         public string ImagePath { get; set; }
         public int Likes { get; set; }
         public int Dislikes { get; set; }
+        public List<Review>? Reviews { get; set; }
+
     }
 }

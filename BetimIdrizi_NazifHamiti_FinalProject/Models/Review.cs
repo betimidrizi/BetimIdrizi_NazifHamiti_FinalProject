@@ -7,5 +7,7 @@
         public string Comment { get; set; }  // The review text
 
         public int BookId { get; set; }  // Link to the book
+        public Book Book { get; set; }
+
     }
 }
