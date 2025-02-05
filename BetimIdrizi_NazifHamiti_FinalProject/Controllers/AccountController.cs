@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace BetimIdrizi_NazifHamiti_FinalProject.Controllers
 {
     private readonly UserManager<ApplicationUser> _userManager;
